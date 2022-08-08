@@ -11,5 +11,4 @@ public class Java_Class_and_Object_Vehicle {   //create class name Vehicle
         System.out.println("This car has"+ " "+  protonsaga.numberoftires+ " " +"tires");
         System.out.println("Ferrari has"+ " "+ ferrair.numberoftires + " " + "tires too.");
     }
-
 }
