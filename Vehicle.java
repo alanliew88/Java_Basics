@@ -9,9 +9,11 @@ public class Vehicle {   //create class name Vehicle
 
     // class - object - attributes
     public static void main(String[] args) {
-        Vehicle car = new Vehicle();
-        System.out.println("This car is in"+ car.color);
-        System.out.println("This car has"+ car.numberoftires +"tires");
+        Vehicle protonsaga = new Vehicle();
+        Vehicle ferrair = new Vehicle();
+        System.out.println("This car is in"+ protonsaga.color);
+        System.out.println("This car has"+ " "+  protonsaga.numberoftires+ " " +"tires");
+        System.out.println("Ferrari has"+ " "+ ferrair.numberoftires + " " + "tires too.");
     }
 
 }
