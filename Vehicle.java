@@ -14,5 +14,4 @@ public class Vehicle {   //create class name Vehicle
         System.out.println("This car has"+ car.numberoftires +"tires");
     }
 
-
 }
